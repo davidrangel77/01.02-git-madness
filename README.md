@@ -4,14 +4,14 @@
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
+Local Coffee at The Pearl
 
-Review goes here.
+  -The coffee is amazing and everyone should go.
 
-Another review if two people review the same restaurant.
+Max's Wine Dive
 
-### Next restaurant Name
+  -They have a great selection of wines to choose from. And awesome music to go with it.
 
-...etc.
+  The Hoppy Monk
 
-## Reviews
+  -The also have a great selection of wine AND beers, plus a secluded atmosphere that is awesome for couples.
