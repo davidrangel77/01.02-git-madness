@@ -21,3 +21,10 @@ Max's Wine Dive
   Try the Friendly Spot for a craft beer or a burger. Their selection of beer is amazing.
 
   If you like authentic Chinese Food, Phoenix Cafe has the best Duck Three Ways.
+
+  Petter Pipper Pizza
+      I love this pizza, I grew up on it and sill love to eat it.
+  Pizza Hut
+      Also a classic favorite of mine. Cant go wrong with this.
+  CiCi's Pizza
+      A guilty pleasure of mine fosho. 
