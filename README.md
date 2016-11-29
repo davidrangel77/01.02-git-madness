@@ -4,14 +4,27 @@
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
+Local Coffee at The Pearl
 
-Review goes here.
+  -The coffee is amazing and everyone should go.
 
-Another review if two people review the same restaurant.
+Max's Wine Dive
 
-### Next restaurant Name
+  -They have a great selection of wines to choose from. And awesome music to go with it.
 
-...etc.
+  The Hoppy Monk
 
-## Reviews
+  -The also have a great selection of wine AND beers, plus a secluded atmosphere that is awesome for couples.
+
+  Hot Joy is a great place for wings. I usually go during happy hour or monday when they are lower priced
+
+  Try the Friendly Spot for a craft beer or a burger. Their selection of beer is amazing.
+
+  If you like authentic Chinese Food, Phoenix Cafe has the best Duck Three Ways.
+
+  Petter Pipper Pizza
+      I love this pizza, I grew up on it and sill love to eat it.
+  Pizza Hut
+      Also a classic favorite of mine. Cant go wrong with this.
+  CiCi's Pizza
+      A guilty pleasure of mine fosho. 
